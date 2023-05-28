@@ -1,0 +1,64 @@
+.obuv_container{
+    margin: 22px 0 0 188px;
+}
+.obuv_title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #056A1C;
+}
+
+.obuv {
+    display: flex;
+}
+
+.obuv_card {
+    width: 140px;
+    height: 177px;
+    box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.09), 0px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin: 2px 95px 6px 0px;
+}
+
+.Card_footer {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 6px;
+}
+
+.item_narxi {
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #000000;
+}
+
+.Item_nomi {
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000000;
+}
+
+.dobavit_btn {
+    width: 140px;
+    height: 36px;
+    background: #056A1C;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+}

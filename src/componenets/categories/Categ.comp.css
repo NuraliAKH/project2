@@ -1,0 +1,45 @@
+.categ_name{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 35px;
+text-align: center;
+margin: 64px 15px 0 0;
+color: #056A1C;
+}
+
+.categoriyes{
+    display: flex;
+    margin-top: 45px;
+}
+.box{
+    width: 320px;
+    height: 55px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    display: flex;   
+    align-items: center;
+    margin-bottom:5px ;
+}
+.box img{
+    padding-left: 5px;
+    width: 25px;
+    height: 25px;
+}
+.box p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #181818;
+padding-left: 30px;
+}
+.category1{
+    margin: 0 0 0 26px;
+}
+.category2{
+    margin: 0 0 0 88px;
+}
+.category3{
+    margin: 0 0 0 88px;
+}
